@@ -1,0 +1,5 @@
+theia@theia-u23470429827:/home/project/mcino-Introductio
+n-to-Git-and-GitHub$ git branch -vv
+* bug-fix-revert ab76f8d [origin/bug-fix-revert] Revert "updated README file"
+  bug-fix-typo   b9375bc [origin/bug-fix-typo] updated README file
+  main           a429085 [origin/main: ahead 2] Revert "updated README file"
